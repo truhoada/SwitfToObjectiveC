@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>David DeGea</string>
+		<key>Position</key>
+		<string>GK</string>
+		<key>Number</key>
+		<string>01</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Marcos Rojo</string>
+		<key>Position</key>
+		<string>CB</string>
+		<key>Number</key>
+		<string>05</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Daley Blind</string>
+		<key>Position</key>
+		<string>CB</string>
+		<key>Number</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jonny Evans</string>
+		<key>Position</key>
+		<string>CB</string>
+		<key>Number</key>
+		<string>06</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bastian Swheinsteiger</string>
+		<key>Position</key>
+		<string>CDM</string>
+		<key>Number</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Adnan Januzai</string>
+		<key>Position</key>
+		<string>LM</string>
+		<key>Number</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Morgan Schneiderlin</string>
+		<key>Position</key>
+		<string>CM</string>
+		<key>Number</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Marouane Fellaini</string>
+		<key>Position</key>
+		<string>CM</string>
+		<key>Number</key>
+		<integer>31</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Valencia</string>
+		<key>Position</key>
+		<string>RM</string>
+		<key>Number</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Juan Mata</string>
+		<key>Position</key>
+		<string>CAM</string>
+		<key>Number</key>
+		<string>08</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Wayne Rooney</string>
+		<key>Position</key>
+		<string>ST</string>
+		<key>Number</key>
+		<integer>10</integer>
+	</dict>
+</array>
+</plist>

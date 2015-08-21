@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>David DeGea</string>
+		<key>Position</key>
+		<string>GK</string>
+		<key>Number</key>
+		<string>01</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Michael Carrick</string>
+		<key>Position</key>
+		<string>CM</string>
+		<key>Number</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Leonel Cristiano Young</string>
+		<key>Position</key>
+		<string>LM</string>
+		<key>Number</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Memphis Depay</string>
+		<key>Position</key>
+		<string>CAM</string>
+		<key>Number</key>
+		<string>09</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Phil Jones</string>
+		<key>Position</key>
+		<string>CB</string>
+		<key>Number</key>
+		<string>04</string>
+	</dict>
+</array>
+</plist>

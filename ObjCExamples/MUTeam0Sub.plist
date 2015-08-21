@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Lindegaard</string>
+		<key>Position</key>
+		<string>GK</string>
+		<key>Number</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jonny Evans</string>
+		<key>Position</key>
+		<string>CB</string>
+		<key>Number</key>
+		<string>06</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cris Smalling</string>
+		<key>Position</key>
+		<string>CB</string>
+		<key>Number</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Marouane Fellaini</string>
+		<key>Position</key>
+		<string>CM</string>
+		<key>Number</key>
+		<integer>31</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Antonio Valencia</string>
+		<key>Position</key>
+		<string>RM</string>
+		<key>Number</key>
+		<integer>25</integer>
+	</dict>
+</array>
+</plist>
